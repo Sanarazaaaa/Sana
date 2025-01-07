@@ -11,7 +11,7 @@
 
 **My Achievements** 
 
-- Secured [1st position](https://certificates.cs50.io/746d3c5c-22f9-4d83-8a4b-33f34d91819e.pdf?size=letter) by solving 9/9 puzzles arranged by Harvard University.
+- Secured [1st position](https://certificates.cs50.io/746d3c5c-22f9-4d83-8a4b-33f34d91819e.pdf?size=letter) by solving 9/9 puzzles arranged by Harvard University in 2024.
 - Participated in an [International Hackathon](https://lablab.ai/u/@sanarazaaaa927) arranged by Lablab.ai.
 - Taught IELTS at [iCodeGuru.](https://icodeguru.weebly.com/)
 
